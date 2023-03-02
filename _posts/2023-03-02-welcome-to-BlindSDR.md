@@ -3,8 +3,6 @@ layout: post
 title: "Welcome to BlindSDR!"
 ---
 
-# Welcome
-
 You've stumbled upon an pre-alpha-release idea of a project for a no-eyes-needed UI to enable someone I know to get back on the air despite the modernization of our radios.
 
 Radios used to be simple dials, a few switches, and have become very powerful and inexpensive waterfall-image-generating beautiful things.
