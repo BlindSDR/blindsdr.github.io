@@ -5,4 +5,5 @@ theme: minima
 
 minima:
   social_links:
-    - { platform: github, user_url: "https://github.com/BlindSDR" }
+    - { platform: github,         user_url: "https://github.com/BlindSDR" }
+  show_excerpts: true
