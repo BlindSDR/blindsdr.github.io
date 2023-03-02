@@ -3,7 +3,6 @@ title: BlindSDR
 description: Software to enable blind radio enthusiasts to enjoy software defined radio.
 theme: minima
 
-github_username: blindsdr
+github_username: BlindSDR
 
-minima:
-  show_excerpts: true
+show_excerpts: true
