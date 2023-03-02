@@ -5,4 +5,4 @@ theme: minima
 
 github_username: BlindSDR
 
-show_excerpts: true
+show_excerpts: false
